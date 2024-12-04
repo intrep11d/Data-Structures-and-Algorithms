@@ -1,0 +1,2 @@
+
+    insertSorted(A, 'D');

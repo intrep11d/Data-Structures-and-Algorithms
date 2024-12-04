@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lawrencetulod/Data Structures and Algorithms/Sets/Sets_LinkedList'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B90, symSize: 0xC8 }
+  - { offsetInCU: 0x95, offset: 0x95, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B90, symSize: 0xC8 }
+  - { offsetInCU: 0xD9, offset: 0xD9, size: 0x8, addend: 0x0, symName: _insertLast, symObjAddr: 0xC8, symBinAddr: 0x100003C58, symSize: 0xA0 }
+  - { offsetInCU: 0x127, offset: 0x127, size: 0x8, addend: 0x0, symName: _unionSorted, symObjAddr: 0x168, symBinAddr: 0x100003CF8, symSize: 0x1B8 }
+  - { offsetInCU: 0x1B1, offset: 0x1B1, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x320, symBinAddr: 0x100003EB0, symSize: 0x70 }
+  - { offsetInCU: 0x1E3, offset: 0x1E3, size: 0x8, addend: 0x0, symName: _insertFront, symObjAddr: 0x390, symBinAddr: 0x100003F20, symSize: 0x6C }
+...

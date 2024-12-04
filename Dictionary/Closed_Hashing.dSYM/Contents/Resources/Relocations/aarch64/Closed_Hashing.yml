@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lawrencetulod/Data Structures and Algorithms/Dictionary/Closed_Hashing'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003888, symSize: 0x104 }
+  - { offsetInCU: 0x5D, offset: 0x5D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003888, symSize: 0x104 }
+  - { offsetInCU: 0xBD, offset: 0xBD, size: 0x8, addend: 0x0, symName: _initDictionary, symObjAddr: 0x104, symBinAddr: 0x10000398C, symSize: 0x54 }
+  - { offsetInCU: 0xEF, offset: 0xEF, size: 0x8, addend: 0x0, symName: _insert, symObjAddr: 0x158, symBinAddr: 0x1000039E0, symSize: 0x128 }
+  - { offsetInCU: 0x13D, offset: 0x13D, size: 0x8, addend: 0x0, symName: _delete, symObjAddr: 0x280, symBinAddr: 0x100003B08, symSize: 0xD4 }
+  - { offsetInCU: 0x17D, offset: 0x17D, size: 0x8, addend: 0x0, symName: _displayDictionary, symObjAddr: 0x354, symBinAddr: 0x100003BDC, symSize: 0xF8 }
+  - { offsetInCU: 0x1AF, offset: 0x1AF, size: 0x8, addend: 0x0, symName: _checkBool, symObjAddr: 0x44C, symBinAddr: 0x100003CD4, symSize: 0x50 }
+  - { offsetInCU: 0x1D3, offset: 0x1D3, size: 0x8, addend: 0x0, symName: _isMember, symObjAddr: 0x49C, symBinAddr: 0x100003D24, symSize: 0xC0 }
+  - { offsetInCU: 0x217, offset: 0x217, size: 0x8, addend: 0x0, symName: _hash, symObjAddr: 0x55C, symBinAddr: 0x100003DE4, symSize: 0xF8 }
+...
